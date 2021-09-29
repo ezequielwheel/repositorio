@@ -1,0 +1,5 @@
+Definition of Ready:
+- Las historias deben ser independientes.
+- Las historias deben aportar valor al usuario.
+- Las historias deben estar estimadas.
+- Las historias deben ser pequeñas.
